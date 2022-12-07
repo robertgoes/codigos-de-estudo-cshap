@@ -1,0 +1,15 @@
+C:\Users\rober\Estudo C#\codigos-de-estudo-cshap\dio-primeiros-passos\bin\Debug\net6.0\dio-primeiros-passos.exe
+C:\Users\rober\Estudo C#\codigos-de-estudo-cshap\dio-primeiros-passos\bin\Debug\net6.0\dio-primeiros-passos.deps.json
+C:\Users\rober\Estudo C#\codigos-de-estudo-cshap\dio-primeiros-passos\bin\Debug\net6.0\dio-primeiros-passos.runtimeconfig.json
+C:\Users\rober\Estudo C#\codigos-de-estudo-cshap\dio-primeiros-passos\bin\Debug\net6.0\dio-primeiros-passos.dll
+C:\Users\rober\Estudo C#\codigos-de-estudo-cshap\dio-primeiros-passos\bin\Debug\net6.0\dio-primeiros-passos.pdb
+C:\Users\rober\Estudo C#\codigos-de-estudo-cshap\dio-primeiros-passos\obj\Debug\net6.0\dio-primeiros-passos.csproj.AssemblyReference.cache
+C:\Users\rober\Estudo C#\codigos-de-estudo-cshap\dio-primeiros-passos\obj\Debug\net6.0\dio-primeiros-passos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\Estudo C#\codigos-de-estudo-cshap\dio-primeiros-passos\obj\Debug\net6.0\dio-primeiros-passos.AssemblyInfoInputs.cache
+C:\Users\rober\Estudo C#\codigos-de-estudo-cshap\dio-primeiros-passos\obj\Debug\net6.0\dio-primeiros-passos.AssemblyInfo.cs
+C:\Users\rober\Estudo C#\codigos-de-estudo-cshap\dio-primeiros-passos\obj\Debug\net6.0\dio-primeiros-passos.csproj.CoreCompileInputs.cache
+C:\Users\rober\Estudo C#\codigos-de-estudo-cshap\dio-primeiros-passos\obj\Debug\net6.0\dio-primeiros-passos.dll
+C:\Users\rober\Estudo C#\codigos-de-estudo-cshap\dio-primeiros-passos\obj\Debug\net6.0\refint\dio-primeiros-passos.dll
+C:\Users\rober\Estudo C#\codigos-de-estudo-cshap\dio-primeiros-passos\obj\Debug\net6.0\dio-primeiros-passos.pdb
+C:\Users\rober\Estudo C#\codigos-de-estudo-cshap\dio-primeiros-passos\obj\Debug\net6.0\dio-primeiros-passos.genruntimeconfig.cache
+C:\Users\rober\Estudo C#\codigos-de-estudo-cshap\dio-primeiros-passos\obj\Debug\net6.0\ref\dio-primeiros-passos.dll
