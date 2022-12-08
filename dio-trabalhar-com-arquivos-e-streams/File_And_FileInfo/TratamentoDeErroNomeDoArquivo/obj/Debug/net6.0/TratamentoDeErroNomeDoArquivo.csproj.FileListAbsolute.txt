@@ -1,0 +1,15 @@
+C:\Users\rober\Estudo C#\codigos-de-estudo-cshap\dio-trabalhar-com-arquivos-e-streams\File_And_FileInfo\TratamentoDeErroNomeDoArquivo\bin\Debug\net6.0\TratamentoDeErroNomeDoArquivo.exe
+C:\Users\rober\Estudo C#\codigos-de-estudo-cshap\dio-trabalhar-com-arquivos-e-streams\File_And_FileInfo\TratamentoDeErroNomeDoArquivo\bin\Debug\net6.0\TratamentoDeErroNomeDoArquivo.deps.json
+C:\Users\rober\Estudo C#\codigos-de-estudo-cshap\dio-trabalhar-com-arquivos-e-streams\File_And_FileInfo\TratamentoDeErroNomeDoArquivo\bin\Debug\net6.0\TratamentoDeErroNomeDoArquivo.runtimeconfig.json
+C:\Users\rober\Estudo C#\codigos-de-estudo-cshap\dio-trabalhar-com-arquivos-e-streams\File_And_FileInfo\TratamentoDeErroNomeDoArquivo\bin\Debug\net6.0\TratamentoDeErroNomeDoArquivo.dll
+C:\Users\rober\Estudo C#\codigos-de-estudo-cshap\dio-trabalhar-com-arquivos-e-streams\File_And_FileInfo\TratamentoDeErroNomeDoArquivo\bin\Debug\net6.0\TratamentoDeErroNomeDoArquivo.pdb
+C:\Users\rober\Estudo C#\codigos-de-estudo-cshap\dio-trabalhar-com-arquivos-e-streams\File_And_FileInfo\TratamentoDeErroNomeDoArquivo\obj\Debug\net6.0\TratamentoDeErroNomeDoArquivo.csproj.AssemblyReference.cache
+C:\Users\rober\Estudo C#\codigos-de-estudo-cshap\dio-trabalhar-com-arquivos-e-streams\File_And_FileInfo\TratamentoDeErroNomeDoArquivo\obj\Debug\net6.0\TratamentoDeErroNomeDoArquivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\Estudo C#\codigos-de-estudo-cshap\dio-trabalhar-com-arquivos-e-streams\File_And_FileInfo\TratamentoDeErroNomeDoArquivo\obj\Debug\net6.0\TratamentoDeErroNomeDoArquivo.AssemblyInfoInputs.cache
+C:\Users\rober\Estudo C#\codigos-de-estudo-cshap\dio-trabalhar-com-arquivos-e-streams\File_And_FileInfo\TratamentoDeErroNomeDoArquivo\obj\Debug\net6.0\TratamentoDeErroNomeDoArquivo.AssemblyInfo.cs
+C:\Users\rober\Estudo C#\codigos-de-estudo-cshap\dio-trabalhar-com-arquivos-e-streams\File_And_FileInfo\TratamentoDeErroNomeDoArquivo\obj\Debug\net6.0\TratamentoDeErroNomeDoArquivo.csproj.CoreCompileInputs.cache
+C:\Users\rober\Estudo C#\codigos-de-estudo-cshap\dio-trabalhar-com-arquivos-e-streams\File_And_FileInfo\TratamentoDeErroNomeDoArquivo\obj\Debug\net6.0\TratamentoDeErroNomeDoArquivo.dll
+C:\Users\rober\Estudo C#\codigos-de-estudo-cshap\dio-trabalhar-com-arquivos-e-streams\File_And_FileInfo\TratamentoDeErroNomeDoArquivo\obj\Debug\net6.0\refint\TratamentoDeErroNomeDoArquivo.dll
+C:\Users\rober\Estudo C#\codigos-de-estudo-cshap\dio-trabalhar-com-arquivos-e-streams\File_And_FileInfo\TratamentoDeErroNomeDoArquivo\obj\Debug\net6.0\TratamentoDeErroNomeDoArquivo.pdb
+C:\Users\rober\Estudo C#\codigos-de-estudo-cshap\dio-trabalhar-com-arquivos-e-streams\File_And_FileInfo\TratamentoDeErroNomeDoArquivo\obj\Debug\net6.0\TratamentoDeErroNomeDoArquivo.genruntimeconfig.cache
+C:\Users\rober\Estudo C#\codigos-de-estudo-cshap\dio-trabalhar-com-arquivos-e-streams\File_And_FileInfo\TratamentoDeErroNomeDoArquivo\obj\Debug\net6.0\ref\TratamentoDeErroNomeDoArquivo.dll
